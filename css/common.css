@@ -181,6 +181,7 @@ cursor: pointer;
   padding-bottom: 16px;
 }
 
+
 .input-number{
   border: 1px solid #808080;
 border-radius: 8px;
@@ -189,6 +190,8 @@ width: 150px;
 height: 40px;
 
 }
+
+
 
 .create-btn{
   border: none;
